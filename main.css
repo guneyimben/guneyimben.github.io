@@ -32,6 +32,10 @@
      background: #120e07;
      color: #00ff00;
 }
+#c{
+  width: 100%;
+  height: 100%;
+}
  span {
      font-size: 300%;
 }
